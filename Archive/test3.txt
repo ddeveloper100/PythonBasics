@@ -1,0 +1,4 @@
+Hello world
+Welcome to Python
+We start today
+This is file 3

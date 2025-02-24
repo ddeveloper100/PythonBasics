@@ -1,0 +1,14 @@
+{
+    "emp1": {
+        "name": "Alice",
+        "role": "Developer"
+    },
+    "emp2": {
+        "name": "Bob",
+        "role": "Designer"
+    },
+    "emp3": {
+        "name": "Charlie",
+        "role": "Manager"
+    }
+}
